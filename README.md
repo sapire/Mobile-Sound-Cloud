@@ -12,3 +12,5 @@ In case the user presses another track - it will start playing it instead of the
 At the bottom of the main screen,, there should be a button to navigate to the recent queries of the user.
 If this button is clicked, it will navigate the application to a screen to view 5 most recent searches.
 
+![Recent queries screen](https://github.com/sapire/Mobile-Sound-Cloud-App/blob/master/recent-queries-screen.jpeg?raw=true)
+
